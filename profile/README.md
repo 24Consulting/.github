@@ -11,7 +11,7 @@
 ## Volver
 <div>
   <a href="https://volverjs.github.io" target="_blank"><img src="/volverjs.svg" align="left" width="50px"/></a>
-  <strong>Volver</strong> in Spanish means <em>come back</em> or <em>give back</em>. <br>It's the collection of open-source projects maintained by <strong>24/Consulting<strong/>.
+  <a href="https://volverjs.github.io" target="_blank"><strong>Volver</strong></a> in Spanish means <em>come back</em> or <em>give back</em>. <br>It's the collection of open-source projects maintained by <strong>24/Consulting<strong/>.
   <br><br><br>
 </div>
 
