@@ -1,19 +1,20 @@
 <div align="center">
-  
-[![volverjs](./volverjs.svg)](https://volverjs.github.io)
+
+[![24/Consulting](/24consulting.svg)](https://24consulting.it)
+
+**24/Consulting** is a web agency based in Verona (Italy), we love open-source and we use it every day.
+<br>
+<br>
+
+[![volverjs](/volverjs.svg)](https://volverjs.github.io)
 
 ## Volver
 
-#### proudly powered by
+**Volver** in Spanish means _come back_ or _give back_, it's the collection of open-source projects maintained by 24/Consulting.
 
 <br>
-
-[![24/Consulting](./24consulting.svg)](https://24consulting.it)
 <br>
-
 </div>
-
-Volver in Spanish means _come back_ or _give back_, it's the collection of open-source projects maintained by 24/Consulting.
 
 | Name                                                           | Description                                                                                           |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
