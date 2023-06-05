@@ -1,6 +1,6 @@
 <div align="center">
   
-[![volverjs](volverjs.svg)](https://volverjs.github.io)
+[![volverjs](./volverjs.svg)](https://volverjs.github.io)
 
 ## Volver
 
@@ -8,7 +8,7 @@
 
 <br>
 
-[![24/Consulting](24consulting.svg)](https://24consulting.it)
+[![24/Consulting](./24consulting.svg)](https://24consulting.it)
 <br>
 
 </div>
